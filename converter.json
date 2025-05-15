@@ -1,0 +1,14 @@
+[
+    {
+        "Valyuta": "usd",
+        "Miqdor": 100,
+        "Kurs": 12500,
+        "Natija": 1250000
+    },
+    {
+        "Valyuta": "uer",
+        "Miqdor": 100,
+        "Kurs": 13000,
+        "Natija": 1300000
+    }
+]
